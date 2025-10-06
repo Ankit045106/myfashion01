@@ -1,0 +1,240 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Designer Leather Handbag",
+      "price": 299,
+      "originalPrice": 399,
+      "description": "Premium Italian leather handbag with gold-tone hardware and multiple compartments.",
+      "images": [
+        "/products/product-img-01.jpg",
+        "/images/products/designer-handbag-2.jpg",
+        "/images/products/designer-handbag-3.jpg"
+      ],
+      "category": "Bags",
+      "badge": "New",
+      "discount": 25,
+      "rating": 4.8,
+      "reviews": 142,
+      "colors": ["#2c2c2c", "#8B4513", "#654321"]
+    },
+    {
+      "id": 2,
+      "name": "Silk Blouse",
+      "price": 129,
+      "originalPrice": 159,
+      "description": "Luxurious silk blouse with delicate button details and flowing sleeves.",
+      "images": [
+        "/products/product-img-02.jpg",
+        "/images/products/silk-blouse-2.jpg",
+        "/images/products/silk-blouse-3.jpg"
+      ],
+      "category": "Tops",
+      "badge": "Sale",
+      "discount": 19,
+      "rating": 4.6,
+      "reviews": 89,
+      "colors": ["#FFFFFF", "#F5F5DC", "#FFE4E1"]
+    },
+    {
+      "id": 3,
+      "name": "High-Waisted Denim",
+      "price": 89,
+      "originalPrice": 119,
+      "description": "Vintage-inspired high-waisted jeans with perfect stretch and comfort.",
+      "images": [
+        "/products/product-img-03.jpg",
+        "/images/products/high-waisted-jeans-2.jpg",
+        "/images/products/high-waisted-jeans-3.jpg"
+      ],
+      "category": "Bottoms",
+      "badge": "Popular",
+      "discount": 25,
+      "rating": 4.7,
+      "reviews": 203,
+      "colors": ["#191970", "#000080", "#4682B4"]
+    },
+    {
+      "id": 4,
+      "name": "Cashmere Turtleneck",
+      "price": 189,
+      "originalPrice": 249,
+      "description": "Ultra-soft cashmere turtleneck sweater for timeless winter style.",
+      "images": [
+        "/products/product-img-04.jpg",
+        "/images/products/cashmere-turtleneck-2.jpg",
+        "/images/products/cashmere-turtleneck-3.jpg"
+      ],
+      "category": "Knitwear",
+      "badge": "New",
+      "discount": 24,
+      "rating": 4.9,
+      "reviews": 67,
+      "colors": ["#800000", "#2F4F4F", "#000000"]
+    },
+    {
+      "id": 5,
+      "name": "Designer Heels",
+      "price": 249,
+      "originalPrice": 299,
+      "description": "Elegant leather heels with comfortable block heel for all-day wear.",
+      "images": [
+        "/products/product-img-05.jpg",
+        "/images/products/designer-heels-2.jpg",
+        "/images/products/designer-heels-3.jpg"
+      ],
+      "category": "Footwear",
+      "badge": "Luxury",
+      "discount": 17,
+      "rating": 4.5,
+      "reviews": 156,
+      "colors": ["#000000", "#800020", "#4B0082"]
+    },
+    {
+      "id": 6,
+      "name": "Wrap Midi Dress",
+      "price": 159,
+      "originalPrice": 199,
+      "description": "Flattering wrap dress in premium fabric that suits every body type.",
+      "images": [
+        "/products/product-img-06.jpg",
+        "/images/products/wrap-dress-2.jpg",
+        "/images/products/wrap-dress-3.jpg"
+      ],
+      "category": "Dresses",
+      "badge": "Bestseller",
+      "discount": 20,
+      "rating": 4.8,
+      "reviews": 278,
+      "colors": ["#FF69B4", "#8B008B", "#DC143C"]
+    },
+    {
+      "id": 7,
+      "name": "Trench Coat",
+      "price": 279,
+      "originalPrice": 349,
+      "description": "Classic beige trench coat with water-resistant finish and belted waist.",
+      "images": [
+        "/products/product-img-07.jpg",
+        "/images/products/trench-coat-2.jpg",
+        "/images/products/trench-coat-3.jpg"
+      ],
+      "category": "Outerwear",
+      "badge": "Classic",
+      "discount": 20,
+      "rating": 4.7,
+      "reviews": 134,
+      "colors": ["#F5F5DC", "#D2B48C", "#BC8F8F"]
+    },
+    {
+      "id": 8,
+      "name": "Statement Earrings",
+      "price": 45,
+      "originalPrice": 65,
+      "description": "Handcrafted geometric earrings that elevate any outfit instantly.",
+      "images": [
+        "/products/product-img-08.jpg",
+        "/images/products/statement-earrings-2.jpg",
+        "/images/products/statement-earrings-3.jpg"
+      ],
+      "category": "Accessories",
+      "badge": "Sale",
+      "discount": 31,
+      "rating": 4.4,
+      "reviews": 98,
+      "colors": ["#FFD700", "#C0C0C0", "#B8860B"]
+    },
+    {
+      "id": 9,
+      "name": "Linen Jumpsuit",
+      "price": 119,
+      "originalPrice": 149,
+      "description": "Effortlessly chic linen jumpsuit with adjustable waist tie.",
+      "images": [
+        "/images/products/linen-jumpsuit-1.jpg",
+        "/images/products/linen-jumpsuit-2.jpg",
+        "/images/products/linen-jumpsuit-3.jpg"
+      ],
+      "category": "Jumpsuits",
+      "badge": "New",
+      "discount": 20,
+      "rating": 4.6,
+      "reviews": 76,
+      "colors": ["#F0E68C", "#FFFACD", "#F5DEB3"]
+    },
+    {
+      "id": 10,
+      "name": "Designer Crossbody",
+      "price": 199,
+      "originalPrice": 259,
+      "description": "Compact crossbody bag with chain strap and luxury logo detailing.",
+      "images": [
+        "/images/products/designer-crossbody-1.jpg",
+        "/images/products/designer-crossbody-2.jpg",
+        "/images/products/designer-crossbody-3.jpg"
+      ],
+      "category": "Bags",
+      "badge": "Popular",
+      "discount": 23,
+      "rating": 4.7,
+      "reviews": 189,
+      "colors": ["#2F4F4F", "#696969", "#000000"]
+    }
+  ],
+
+  "heroBanner": {
+    "id": 1,
+    "title": "Fall Collection 2024",
+    "subtitle": "Discover autumn's finest silhouettes and textures",
+    "ctaText": "Shop Collection",
+    "ctaLink": "/fall-collection",
+    "mediaType": "image",
+    "media": "/images/banners/fall-fashion.jpg"
+  },
+
+  "ctaBanners": [
+    {
+      "id": 1,
+      "title": "New Arrivals Weekly",
+      "subtitle": "Fresh styles delivered every week",
+      "ctaText": "Shop New",
+      "ctaLink": "/new-arrivals",
+      "image": "/images/banners/new-weekly.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Limited Edition",
+      "subtitle": "Exclusive pieces while they last",
+      "ctaText": "Shop Exclusive",
+      "ctaLink": "/limited-edition",
+      "image": "/images/banners/limited-edition.jpg"
+    }
+  ],
+
+  "testimonials": [
+    {
+      "id": 1,
+      "name": "Isabella Rossi",
+      "role": "Fashion Editor",
+      "rating": 5,
+      "comment": "The quality and attention to detail in every piece is exceptional. My go-to for editorial styling.",
+      "avatar": "/images/testimonials/isabella-rossi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Charlotte Dubois",
+      "role": "Luxury Influencer",
+      "rating": 5,
+      "comment": "From daywear to evening glamour, this boutique never disappoints. The silk collection is divine!",
+      "avatar": "/images/testimonials/charlotte-dubois.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Sophia Laurent",
+      "role": "Fashion Stylist",
+      "rating": 5,
+      "comment": "I source pieces for my celebrity clients here. The designer selection is always on trend.",
+      "avatar": "/images/testimonials/sophia-laurent.jpg"
+    }
+  ]
+}
